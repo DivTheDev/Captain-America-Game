@@ -1,2 +1,5 @@
 # Captain-America-Game
-Game created in GameMaker
+Multi level game created in GameMaker
+
+Download and open the .gmx file into GameMaker. 
+Set the AppId if using MacOS.
