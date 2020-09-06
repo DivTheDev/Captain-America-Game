@@ -1,0 +1,10 @@
+!!! Font fnt_score uses a font (Bauhaus 93) not installed on this system - Font has NOT been regenerated
+GameMaker Studio 1 font texture has been backed up at ${project_dir}/fonts/fnt_score/fnt_score.gms1.png
+Converting GML script: ${project_dir}/objects/obj_player/Step_0.gml
+Converted description /// @description code
+
+macOS icon ${options_dir}/mac/icons/icon512.png written out as 32-bit
+Game speed set to 30
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script '__global_object_depths.gml'
